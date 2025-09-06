@@ -10,8 +10,6 @@ This is my BS Mathematics thesis in which I discuss encryption methods based on 
 
 ## Contents
 - Thesis.pdf Final thesis.
-- Thesis.docx-editable version.
-- LaTeX files (if any)
 
 ## License
 © 2025 Muhammad Irfan. All rights reserved.
